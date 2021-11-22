@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "60d7c374aa74c64d880b25ec"
+  },
+  "id_aluno": 1,
+  "cpf": 26548932102,
+  "nome": "Lucas Silva",
+  "sexo": "M",
+  "data_nascimento": {
+    "$date": "1995-12-12T02:00:00Z"
+  }
+}]

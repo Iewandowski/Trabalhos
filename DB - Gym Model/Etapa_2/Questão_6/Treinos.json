@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "60d7c8e770c8949cde1c836b"
+  },
+  "id_treino": 1,
+  "data_inicio": {
+    "$date": "2021-05-12T16:54:40Z"
+  },
+  "data_termino": {
+    "$date": "2021-05-19T16:54:40Z"
+  },
+  "id_aluno": 1,
+  "id_professor": 3
+}]

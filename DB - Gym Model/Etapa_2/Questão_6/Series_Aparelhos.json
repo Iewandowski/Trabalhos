@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "60d7cdc170c8949cde1c837a"
+  },
+  "id_treino": 1,
+  "id_serie": 1,
+  "id_aparelho": 3,
+  "cargas": 3,
+  "repeticoes": 20,
+  "descanso": "00:01:00"
+},{
+  "_id": {
+    "$oid": "60d7ce6270c8949cde1c837b"
+  },
+  "id_treino": 1,
+  "id_serie": 1,
+  "id_aparelho": 5,
+  "cargas": 2,
+  "repeticoes": 20,
+  "descanso": "00:01:00"
+},{
+  "_id": {
+    "$oid": "60d7ceb870c8949cde1c837c"
+  },
+  "id_treino": 1,
+  "id_serie": 1,
+  "id_aparelho": 6,
+  "cargas": 3,
+  "repeticoes": 15,
+  "descanso": "00:00:30"
+},{
+  "_id": {
+    "$oid": "60d7cee570c8949cde1c837d"
+  },
+  "id_treino": 1,
+  "id_serie": 2,
+  "id_aparelho": 4,
+  "cargas": 5,
+  "repeticoes": 20,
+  "descanso": "00:02:00"
+},{
+  "_id": {
+    "$oid": "60d7cf2070c8949cde1c837e"
+  },
+  "id_treino": 1,
+  "id_serie": 2,
+  "id_aparelho": 11,
+  "cargas": 4,
+  "repeticoes": 30,
+  "descanso": "00:01:30"
+},{
+  "_id": {
+    "$oid": "60d7cf4570c8949cde1c837f"
+  },
+  "id_treino": 1,
+  "id_serie": 2,
+  "id_aparelho": 2,
+  "cargas": 4,
+  "repeticoes": 10,
+  "descanso": "00:05:00"
+}]

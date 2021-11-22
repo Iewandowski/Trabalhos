@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "60d7c696aa74c64d880b25ed"
+  },
+  "id_professor": 1,
+  "nome": "Renato Portaluppi"
+},{
+  "_id": {
+    "$oid": "60d7c9ff70c8949cde1c836d"
+  },
+  "id_professor": 3,
+  "nome": "Luiz Felipe Scolari"
+}]

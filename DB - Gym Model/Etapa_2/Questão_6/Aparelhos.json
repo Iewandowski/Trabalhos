@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "60d7cc0e70c8949cde1c8370"
+  },
+  "id_aparelho": 2,
+  "nome": "Bicicleta ergométrica",
+  "localizacao": "Próxima ao vestiario"
+},{
+  "_id": {
+    "$oid": "60d7cc6470c8949cde1c8371"
+  },
+  "id_aparelho": 3,
+  "nome": "Supino",
+  "localizacao": "Próximo ao bebedouro"
+},{
+  "_id": {
+    "$oid": "60d7cca670c8949cde1c8373"
+  },
+  "id_aparelho": 4,
+  "nome": "Leg Press",
+  "localizacao": "Próximo ao vestiario"
+},{
+  "_id": {
+    "$oid": "60d7ccf170c8949cde1c8376"
+  },
+  "id_aparelho": 5,
+  "nome": "Barras fixas",
+  "localizacao": "Localizadas no meio da academia"
+},{
+  "_id": {
+    "$oid": "60d7cd1870c8949cde1c8377"
+  },
+  "id_aparelho": 6,
+  "nome": "Barras Paralelas",
+  "localizacao": "Localizadas no meio da academia"
+},{
+  "_id": {
+    "$oid": "60d7cd6570c8949cde1c8379"
+  },
+  "id_aparelho": 11,
+  "nome": "Steps",
+  "localizacao": "Ao lado da sala de dança"
+}]

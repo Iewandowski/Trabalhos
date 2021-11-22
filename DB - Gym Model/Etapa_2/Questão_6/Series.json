@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "60d7cac170c8949cde1c836e"
+  },
+  "id_treino": 1,
+  "id_serie": 1,
+  "descricao": "TREINAR BRAÇOS"
+},{
+  "_id": {
+    "$oid": "60d7cbbf70c8949cde1c836f"
+  },
+  "id_treino": 1,
+  "id_serie": 2,
+  "descricao": "TREINAR PERNAS"
+}]

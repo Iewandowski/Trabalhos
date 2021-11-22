@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "60d7c70a70c8949cde1c836a"
+  },
+  "id_avaliacao": 1,
+  "data_avaliacao": {
+    "$date": "2021-11-05T03:00:00Z"
+  },
+  "peso": 70,
+  "altura": 1.78,
+  "imc": 22.1,
+  "perimetro_cintura": 66,
+  "perimetro_biceps": 38.4,
+  "perimetro_peito": 82,
+  "perimetro_quadriceps": 41.8,
+  "id_aluno": 1
+}]
