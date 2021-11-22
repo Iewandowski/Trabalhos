@@ -9,3 +9,6 @@ Contém todas as atividades desenvolvidas por mim __[Carol Lewandowski](https://
 
 ### ALESTII - Dijkstra Algorithm
 #### - Trabalho da Disciplina de Algoritmos e Estruturas de Dados II. Utilização do Algoritmo de Dijkstra para caminhamento de uma peça em um tabuleiro toroidal.
+
+### DB - Gym Modelo
+#### - Trabalho da Disciplina de Laboratório de Banco de Dados. Modelagem conceitual de uma Academia, tabelas e pesquisas feitas com utilização de Oracle.
