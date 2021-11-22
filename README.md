@@ -1,1 +1,1 @@
-# Trabalhos
+Contém todas as atividades desenvolvidas por mim __[Carol Lewandowski](https://www.linkedin.com/in/carol-lewandowski-92b226226/)__ durante minha tragetória na [PUCRS](https://www.pucrs.br/) e [Alcides Maya](https://alcidesmaya.edu.br/)
