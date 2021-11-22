@@ -4,4 +4,4 @@ Contém todas as atividades desenvolvidas por mim __[Carol Lewandowski](https://
 
 ## Atividades Desenvolvidas
 ### PHP - Inventory Control
-####- Criado em 2019, Site criado utilizando PHP e Bootstrap para controle do estoque em MySQL. 
+#### - Criado em 2019, Site criado utilizando PHP e Bootstrap para controle do estoque em MySQL. 
