@@ -5,3 +5,7 @@ Contém todas as atividades desenvolvidas por mim __[Carol Lewandowski](https://
 ## Atividades Desenvolvidas
 ### PHP - Inventory Control
 #### - Criado em 2019, Site criado utilizando PHP e Bootstrap para controle do estoque em MySQL. 
+
+
+### ALESTII - Dijkstra Algorithm
+#### - Trabalho da Disciplina de Algoritmos e Estruturas de Dados II. Utilização do Algoritmo de Dijkstra para caminhamento de uma peça em um tabuleiro toroidal.
