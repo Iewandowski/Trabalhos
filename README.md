@@ -18,3 +18,4 @@ Contém algumas das atividades desenvolvidas por mim __[Carol Lewandowski](https
 
 ### LP - Lexer
 #### - Construção de um lexer/tokenizer simples para os tipos de tokens da gramática de aritmética básica.
+#### - Aplicação em Haskell para criar lista de compras
