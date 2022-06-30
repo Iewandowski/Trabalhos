@@ -17,4 +17,4 @@ Contém algumas das atividades desenvolvidas por mim __[Carol Lewandowski](https
 #### - Trabalhos desenvolvidos durante o semestre da disciplina Verificação e Validação de Software - cursada em 2022/1. 
 
 ### LP - Lexer
-#### - Construção de um lexer/tokenizer simples para os tipos de tokens da gramática de aritmética básica e aplicação em Haskell para criar lista de compras
+#### - Construção de um lexer/tokenizer simples para os tipos de tokens da gramática de aritmética básica e aplicação em Haskell para criar lista de compras. Trabalhos desenvolvidos na disciplina Linguagens de Programação cursada em 2022/1.
