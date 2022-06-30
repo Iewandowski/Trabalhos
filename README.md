@@ -14,7 +14,7 @@ Contém algumas das atividades desenvolvidas por mim __[Carol Lewandowski](https
 #### - Trabalho da Disciplina de Laboratório de Banco de Dados. Modelagem conceitual de uma Academia, tabelas e pesquisas feitas com utilização de Oracle.
 
 ### VERIVAL
-#### Trabalhos desenvolvidos durante o semestre da disciplina Verificação e Validação de Software - cursada em 2022/1. 
+#### - Trabalhos desenvolvidos durante o semestre da disciplina Verificação e Validação de Software - cursada em 2022/1. 
 
 ### LP - Lexer
-#### Construção de um lexer/tokenizer simples para os tipos de tokens da gramática de aritmética básica.
+#### - Construção de um lexer/tokenizer simples para os tipos de tokens da gramática de aritmética básica.
